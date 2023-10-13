@@ -4,7 +4,7 @@ const menu = [
     title: "Margherita Pizza",
     category: "Pizza",
     price: 12.99,
-    img: "item-1.jpg",
+    img: "item--1.jpg",
     desc: "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
   },
   {
