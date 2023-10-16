@@ -4,7 +4,7 @@ const menu = [
     title: "Margherita Pizza",
     category: "Pizza",
     price: 12.99,
-    img: "item--1.jpg",
+    img: "item--1.jpeg",
     desc: "Classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
   },
   {
@@ -12,7 +12,7 @@ const menu = [
     title: "Spaghetti Carbonara",
     category: "Pasta",
     price: 14.99,
-    img: "item-2.jpg",
+    img: "item--2.avif",
     desc: "Creamy pasta dish with eggs, cheese, pancetta, and black pepper.",
   },
   {
@@ -20,7 +20,7 @@ const menu = [
     title: "Grilled Salmon",
     category: "Seafood",
     price: 18.99,
-    img: "item-3.jpg",
+    img: "item--3.avif",
     desc: "Freshly grilled salmon fillet served with a lemon-dill sauce.",
   },
   {
@@ -28,7 +28,7 @@ const menu = [
     title: "Caesar Salad",
     category: "Salad",
     price: 8.99,
-    img: "item-4.jpg",
+    img: "item--4.avif",
     desc: "Crisp romaine lettuce, croutons, parmesan cheese, and Caesar dressing.",
   },
   {
@@ -36,7 +36,7 @@ const menu = [
     title: "Beef Burger",
     category: "Burgers",
     price: 10.99,
-    img: "item-5.jpg",
+    img: "item--5.avif",
     desc: "Juicy beef patty with lettuce, tomato, onion, and your choice of toppings.",
   },
   {
@@ -44,7 +44,7 @@ const menu = [
     title: "Vegetable Stir-Fry",
     category: "Vegetarian",
     price: 13.99,
-    img: "item-6.jpg",
+    img: "item--6.avif",
     desc: "Assorted vegetables stir-fried with tofu in a savory sauce.",
   },
   {
@@ -52,7 +52,7 @@ const menu = [
     title: "Chocolate Cake",
     category: "Dessert",
     price: 6.99,
-    img: "item-7.jpg",
+    img: "item--7.avif",
     desc: "Rich and moist chocolate cake served with a scoop of vanilla ice cream.",
   },
   {
@@ -60,7 +60,7 @@ const menu = [
     title: "Iced Coffee",
     category: "Beverage",
     price: 3.99,
-    img: "item-8.jpg",
+    img: "item--8.avif",
     desc: "Chilled coffee with ice, sugar, and a touch of cream.",
   },
 ];
