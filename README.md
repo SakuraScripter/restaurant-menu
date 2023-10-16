@@ -1,6 +1,10 @@
 # Restaurant Menu
 
+Interactive restaurant menu showcasing a variety of dishes, categorized into options such as pizza, pasta, and vegetarian. Users can easily navigate and select their preferred category by using the intuitive buttons located at the top of the webpage.
+
 ## Preview
+
+<img width="1214" alt="Captura de ecrã 2023-10-16, às 13 17 10" src="https://github.com/SakuraScripter/restaurant-menu/assets/115422221/f98378d0-6b96-4a06-ba49-b4457bb0f674">
 
 ## Technologies Used
 
